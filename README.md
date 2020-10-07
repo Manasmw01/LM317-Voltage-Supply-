@@ -10,7 +10,7 @@ By rotating the potentiometer, the output voltage can be varied from 1.23V to 10
 
 * * *
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/72513954/95360222-b6f6e200-08e8-11eb-9ade-0ead032e10f5.PNG">
+  <img width="570" height="334" src="https://user-images.githubusercontent.com/72513954/95360222-b6f6e200-08e8-11eb-9ade-0ead032e10f5.PNG">
 </p>
 
 
