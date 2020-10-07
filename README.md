@@ -8,10 +8,10 @@ By rotating the potentiometer, the output voltage can be varied from 1.23V to 10
   <img width="338" height="405" src="https://user-images.githubusercontent.com/72513954/95361242-1b667100-08ea-11eb-87b3-fa7c0a6ebf86.PNG">
 </p>
 
-![LM317 Voltage supply](https://user-images.githubusercontent.com/72513954/95361242-1b667100-08ea-11eb-87b3-fa7c0a6ebf86.PNG)
 * * *
+<p align="center">
+  <img width="338" height="405" src="https://user-images.githubusercontent.com/72513954/95360222-b6f6e200-08e8-11eb-9ade-0ead032e10f5.PNG">
+</p>
 
-
-![LM317 Voltage supply 2](https://user-images.githubusercontent.com/72513954/95360222-b6f6e200-08e8-11eb-9ade-0ead032e10f5.PNG)
 
 
