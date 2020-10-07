@@ -5,7 +5,7 @@ LM317 Adjustable Voltage Regulator PCB
 By rotating the potentiometer, the output voltage can be varied from 1.23V to 10V
 * * *
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/72513954/95361242-1b667100-08ea-11eb-87b3-fa7c0a6ebf86.PNG/100/100">
+  <img width="338" height="405" src="https://user-images.githubusercontent.com/72513954/95361242-1b667100-08ea-11eb-87b3-fa7c0a6ebf86.PNG">
 </p>
 
 ![LM317 Voltage supply](https://user-images.githubusercontent.com/72513954/95361242-1b667100-08ea-11eb-87b3-fa7c0a6ebf86.PNG)
