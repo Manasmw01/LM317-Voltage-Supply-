@@ -2,10 +2,7 @@
 # This is LM317 based Variable Voltage supply
 
 https://imgur.com/eUJO6YH
-# ![Alt text](LM317 Voltage supply.PNG)
-<img
-src=“LM317 Voltage supply.PNG”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+
+
+![LM317 Voltage supply 2](https://user-images.githubusercontent.com/72513954/95360222-b6f6e200-08e8-11eb-9ade-0ead032e10f5.PNG)
+# Thank you
