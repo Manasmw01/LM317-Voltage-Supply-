@@ -2,6 +2,7 @@
 [EasyEDA Project Link Here](https://easyeda.com/manasmw333/voltage-supply)
 * * *
 >LM317 Adjustable Voltage Regulator PCB
+>
 >By rotating the potentiometer, the output voltage can be varied from 1.23V to 10V
 * * *
 <p align="center">
